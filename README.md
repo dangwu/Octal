@@ -21,3 +21,5 @@ For anything else, e-mail me at danielgarywu[at]gmail[dot]com!
 ### Thank You
 
 Thanks to [Icons8](https://icons8.com) for all the beautiful icons used in this app.
+
+Thanks to [Y Combinator](https://www.ycombinator.com/) for providing the [Hacker News API](https://github.com/HackerNews/API).
