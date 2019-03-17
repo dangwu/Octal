@@ -1,6 +1,6 @@
 ## Octal
 
-Octal is a modern, full-featured, lightning-fast Hacker News client built with an eye for design and simplicity. It is designed to take advantage of your screen's real estate perfectly - especially on an iPhone X. Octal uses the official Hacker News Firebase API. You can also sign in to upvote and post comments!
+Octal is a modern, full-featured Hacker News (news.ycombinator.com) client built with a focus on design, speed, and usability. Octal has all the features you'd expect from a Hacker News app, including the ability to sign in to your account, upvote, post comments, and more!
 
 ### Download
 
