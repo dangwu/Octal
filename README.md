@@ -1,6 +1,6 @@
 ## Octal
 
-Octal is a modern, full-featured Hacker News (news.ycombinator.com) client built with a focus on design, speed, and usability. Octal has all the features you'd expect from a Hacker News app, including the ability to sign in to your account, upvote, post comments, and more!
+Octal is a modern, full-featured Hacker News (news.ycombinator.com) client built with a focus on design, speed, and usability. Octal has all the features you'd expect from a Hacker News app, including the ability to sign in to your account, upvote, post, comment, favorite, and more!
 
 ### Download
 
