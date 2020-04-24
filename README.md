@@ -4,7 +4,7 @@ Octal is a modern, full-featured Hacker News (news.ycombinator.com) client built
 
 ### Download
 
-Octal is [available in the iOS App Store](https://itunes.apple.com/us/app/id1308885491?mt=8) for both iPhones and iPads.
+Octal is [available in the iOS App Store](https://itunes.apple.com/us/app/id1308885491?mt=8) for both iOS and iPadOS.
 
 ### Privacy
 
