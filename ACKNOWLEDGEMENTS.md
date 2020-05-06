@@ -9,3 +9,5 @@ Thanks to [Nuke](https://github.com/kean/Nuke) for providing a great open source
 Thanks to [airbnb](https://github.com/airbnb) for providing [Lottie](http://airbnb.io/lottie), a library used to natively render After Effects vector animations.
 
 Thanks to [LottieFiles](https://lottiefiles.com/) for providing animations for Lottie.
+
+Thanks to [Previewed](https://previewed.app/) for creating the App Store screenshots.
