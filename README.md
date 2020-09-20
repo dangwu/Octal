@@ -1,4 +1,4 @@
-## Latest Updates
+## Latest Updates (September 2020)
 
 My latest release for Octal, which only contains bug fixes, is being rejected by Apple's App Store Review team. They are asking me to do things that I definitely should not have to do as a Hacker News client app. I am currently going through a very slow and frustrating appeal process and don't have any ETA.
 
