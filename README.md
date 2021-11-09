@@ -8,7 +8,7 @@ Octal is [available in the iOS App Store](https://itunes.apple.com/us/app/id1308
 
 ### Privacy
 
-By using the app, you agree to our [privacy policy.](https://github.com/dangwu/Octal/blob/master/PRIVACY_POLICY.md)
+By using the app, you agree to our [privacy policy](https://github.com/dangwu/Octal/blob/master/PRIVACY_POLICY.md) and [end-user license agreement.](https://github.com/dangwu/Octal/blob/master/EULA.md)
 
 ### Support
 
