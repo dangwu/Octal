@@ -1,4 +1,4 @@
-## End User License Agreement
+## End-user License Agreement
 This policy applies to the usage of the Octal app for Apple devices.
 
 Please read this Mobile Application End User License Agreement (“EULA”) carefully before downloading or using the Octal mobile application ("Mobile App"), which allows You to read and contribute to Hacker News from Your mobile device. This EULA forms a binding legal agreement between you (and any other entity on whose behalf you accept these terms) (collectively “You” or “Your”) and Octal (each separately a “Party” and collectively the “Parties”) as of the date you download the Mobile App. Your use of the Mobile App is subject to this EULA.
