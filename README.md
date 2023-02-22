@@ -16,7 +16,7 @@ Having trouble with the app? Found a bug? Feature request?
 
 [Create a new issue](https://github.com/dangwu/Octal/issues) and I'll get back to you.
 
-For anything else, e-mail me at danielgarywu[at]gmail[dot]com!
+For anything else, e-mail me at wugdaniel[at]gmail[dot]com!
 
 ### Thank You
 
