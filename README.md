@@ -10,13 +10,17 @@ Octal is [available in the iOS App Store](https://itunes.apple.com/us/app/id1308
 
 By using the app, you agree to our [privacy policy](https://github.com/dangwu/Octal/blob/master/PRIVACY_POLICY.md) and [end-user license agreement.](https://github.com/dangwu/Octal/blob/master/EULA.md)
 
+### Beta Testing
+
+Want to test upcoming features? Grab a beta build from [TestFlight](https://testflight.apple.com/join/jdB8zvZG).
+
 ### Support
 
 Having trouble with the app? Found a bug? Feature request?
 
 [Create a new issue](https://github.com/dangwu/Octal/issues) and I'll get back to you.
 
-For anything else, e-mail me at suwuinc[at]gmail[dot]com!
+For anything else, e-mail me at wugdaniel[at]gmail[dot]com!
 
 ### Thank You
 
